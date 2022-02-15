@@ -1,4 +1,6 @@
-# pytorch-tutorial
-Notebooks from the official pytorch tutorial videos
+# PyTorch Tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Jypter Notebooks from the official pytorch tutorial videos on YouTube: [PyTorch Beginner Series](https://youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN)
+
+## Table of Contents
+
